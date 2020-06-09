@@ -2,28 +2,32 @@
 
 ---
 
-### Category Name 1 
+### ML/DL
 
-[Project 1 Title](/sample_page)
+Object Detection on Raspberry Pi(/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+Real Estate Prices prediction (/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+Video Dubbing+TTS(http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Data Science
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- ELK (http://example.com/)
+- Movement of Wealth (http://example.com/)
+
+---
+
+### BE
+
+- Pet Genetic Information Management(http://example.com/)
+- Delivery Order Platform(http://example.com/)
 
 ---
 
