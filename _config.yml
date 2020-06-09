@@ -1,9 +1,11 @@
 title: KIM NEUNGJUN # your name (or website title) here
 logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Data Science
   <br><br>
-  Second description 
+  ML/DL
+  <br><br>
+  BE
   <br><br>
   <a href="https://www.linkedin.com/in/neungjunkim/">View My LinkedIn Profile</a> 
   <a href="https://github.com/hweersot/">View My Github Profile</a> 
